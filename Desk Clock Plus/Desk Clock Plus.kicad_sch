@@ -9668,7 +9668,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "OptoDevice:R_LDR_5.0mm_P7.6mm_Vertical"
+		(property "Footprint" "OptoDevice:R_LDR_5.1x4.3mm_P3.4mm_Vertical"
 			(at 229.87 81.28 90)
 			(hide yes)
 			(show_name no)
